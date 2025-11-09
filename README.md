@@ -1,2 +1,2 @@
 # copulae
-Rust create for modelling dependency structures in marginal distributions
+Rust crate for modelling dependency structures in marginal distributions
